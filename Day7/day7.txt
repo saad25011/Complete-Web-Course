@@ -1,0 +1,27 @@
+.box a{} ya jo space ha isko decentend selector khta ha mtlb is class ma jitna
+bhi nested ma a ho uspr css apply karo
+*)there are three ways to apply color in css
+1)color name 
+2)hex code 
+3)rgb value 
+
+backgroud color = back ground pr ata ha
+foreground color = text pr apply hota ha 
+
+opacity is use to light or dark the color or heading 
+
+opacity lie between 0-1
+opcity apply on color using rgba where a is alpha 
+opcity also apply on element by simply apply opacity:0.5;
+
+
+font size is depend on your screen size suppose your body ha 32px so 
+fontsize 50px means 32 ka 16 percent bara krdo
+
+@font face = key word 
+used to apply downloaded font accross css 
+ ../ bahr jana ka lya use hota ha 
+/ undr ana ka lya 
+
+git is a "scm" source code managing tool
+ 

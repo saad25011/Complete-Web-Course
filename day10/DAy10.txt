@@ -1,0 +1,18 @@
+font picker to find font name
+
+<span> is used to inline groupping 
+
+list-style-type: georgian; it is used to change list indexing to dotted,star etc
+
+position absoulute= is ma hm is ko freely use kr skta ha right left top 
+down or is ki jaga pr koi or box ajy ga 
+
+
+positon relative ma ap parent ko position relative da kr child ko uska undr bnd 
+krskta ho 
+ 
+z-index possition absolute ka st chalta ha ab ma chata ho ka mera box jis pr 
+postion ha wo uka upr ay to ap z-index;-1; krdo
+
+-1 picha jana ha
++1 aga ana ha 

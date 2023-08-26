@@ -1,0 +1,10 @@
+selector =ap html ka element ko target krta ha iski help sa taka hm us ma color wgara 
+css add kr saka
+declearation= { property:(<=colun) value;(<=semicolumn)}
+
+* = ya css ma lagana sa html ki body ma jitna bhi element ha sb pr ek st css apply 
+krta ha same
+type selector = element ko uska name sa target krta ha 
+child selector = ya use hota ha list wagara ma jaha pr bs parent ko class deta ha
+taka sb child pr css apply hojy 
+.list>ol ispr color karo > greater than ya km krta ha

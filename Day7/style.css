@@ -1,0 +1,38 @@
+/* .one{
+    color: red;
+}
+
+.two{
+    color: blue;
+}
+
+.three{
+    color: brown;
+} */
+
+/* 1way */
+/* @font-face{
+    font-family: My font;
+    src: url(google font sa ja kr font download karo or ya ha usko link past krdena) ;
+} */
+/* 3way */
+
+/* direct link indhr daldo */
+
+
+.child_selector{
+    color: red;
+    
+    
+}
+
+.child_selector>h1{
+    background-color: pink;
+    opacity: 1;
+}
+
+/* decented selector space ko khta ha ka jaha pr bhi ho  */
+
+.child_selector a{
+    color: rgb(126, 16, 34);
+}

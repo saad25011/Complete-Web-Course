@@ -1,0 +1,30 @@
+doc type HTML ka latest version ha 
+less that explation mark dash dash 2 phir greater than
+ select line than ctrl ? comment krna ka lya
+
+id = it is always unique
+class = multipl and it is mostly use in CSS we can assign class to multiple element 
+but we can not assign id to multiple element it is always uniqe to every element 
+div = container 
+span= inlne group bnanta ha (mtlb SAAD ka color red kro or khan ka color blue)
+div =block level grouping 
+iframe = kisi or ki website ko apni website ma show krwata ha like GOogle map,
+youtubevideo 
+method for iframe:
+"imbead ka option map,youtube video pr hota ha open ka youtube ki video share pr 
+jao usma ek option hoga embed ka uspr click kr ka copy karo phir paste krdo 
+src ma "
+meta = is page ma apko kya kya mila ga 
+keyword =meta ka attribute ha jaha pr SEO hoti ha ynhi kuch keywords deta ha like shopping,shirts jis pr likhna sa meri website ajy
+robots = meta ka keyword ha jis ko no follow krka ap direct google serach sa web
+pr nh ja skta 
+pragram=web ko cach ma save krta ha taka page jaldi sa load ho
+controls =video ma use krta ha taka hmara ps volume up down pause start etc options
+ajy 
+css = cascating style sheet 
+cascating mean (taqsem krna / upr sa nicha ana)
+there three ways to use CSS
+external seprate file bana kr css liko 
+internal html ka under style ka element bana kr css likho
+inline kisi bhi elemet ma laga skta ho 
+

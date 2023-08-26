@@ -1,0 +1,9 @@
+
+html:hyper text markup language 
+ek page sa dosra page pr jana ka links hota ha usa hyper text khta ha 
+
+ek text ki jo heading hoti ha us ko markup language khta ha 
+
+
+&nbsp for spacing 
+

@@ -1,0 +1,51 @@
+.para{
+    background-color: brown;
+    /* width: 100px; */
+    /* ab height auto nh rahi tbhi background color text ka upr ha  */
+    width: 300px;
+    min-height: 100px;
+    max-height: 80px;
+    overflow-y: scroll;
+    /* visibility: hidden; */
+    /* display: none;     */
+}
+
+img{
+    min-width: 100px;
+    max-width: 500px; 
+      
+}
+
+.img{
+    margin: 20px 0px 0px 0px;
+    padding: 10px 0px 0px 20px;
+    background-color: rgb(123, 123, 187);
+    border-width: 10px 10px 10px 50px;
+    border-style: solid;
+    border-color: black red wheat blue;
+    /* height: 500px;
+    width: 500px;
+    border-radius: 250px; */
+
+    /* border: 2px solid black; */
+}
+
+.red{
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    font-size: 3cm;
+    
+    background-color: yellow;
+    height: 5cm;
+    width: 5cm;
+    border-radius: 2.5cm;
+
+    /* center any element */
+
+    margin: 10px auto 10px auto;
+    text-align: left;
+    box-shadow:  10px 50px  10px  black;
+
+}
+

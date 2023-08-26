@@ -1,0 +1,14 @@
+.main{
+    /* height: 35cm;
+    background-image: url(img1.jpg);
+    /* background-repeat: no-repeat; */
+    /* background-position: center;
+    background-attachment: fixed;
+    background-size: cover; */
+
+    /* background grandient  */
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 22%, rgba(9,9,121,1) 54%, rgba(0,212,255,1) 90%);
+
+
+}

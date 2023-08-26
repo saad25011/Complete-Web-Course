@@ -1,0 +1,22 @@
+overflow: scroll; ,hidden ,
+overflow-y vertical 
+overflow-x horizontal
+
+/* center any element */
+
+    margin: 10px auto 10px auto;
+    text-align: left;
+
+display inline => sb line ma ajy ga
+				vertical    	   color
+box-shadow:insert 	10px     50px  10px 2px    black;
+	revert		horizotal      blur spread
+
+
+height width fix or boarder radius un ka half krda circle bn jy ga
+
+height 500
+width 500
+
+boarder radius 250px 
+

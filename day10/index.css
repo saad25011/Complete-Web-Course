@@ -1,0 +1,29 @@
+*{
+    cursor: url(heart.png);
+}
+
+.list{
+    list-style-type: georgian;
+   
+}
+
+
+
+.main{
+    border: 2px solid black;
+    height: 5cm;
+    width: 5cm;
+    position: relative;
+    
+}
+
+
+
+.img{
+    position: fixed;
+    right: 0px;
+    
+
+}
+
+
