@@ -1,0 +1,7 @@
+media query 
+max width ka mtlb 800 wali screen pr chala dena
+flex wrap it is use to wrap items in a given space
+
+justify content vertical chalti ha
+align content horizontal chalti ha
+flex 1,2,3 to add width
